@@ -1,4 +1,0 @@
-This is the Master line initial
-This is feature-a
-This is feature-b
-This is feature-c
