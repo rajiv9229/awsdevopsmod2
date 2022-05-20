@@ -1,6 +1,7 @@
 This is the Master line initial
 <<<<<<< HEAD
 This is feature-a
-=======
 This is feature-b
->>>>>>> feature-b
+=======
+This is feature-c
+>>>>>>> feature-c
